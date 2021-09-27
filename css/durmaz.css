@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+}
+
+#baslik{
+    font-size: 40px;
+    color: red;
+
+}
+#baslik2{
+    font-size: 30px;
+    color: rgb(72, 8, 92);
+    
+
+}
+
+.fit-picture{
+    width: 250px;
+}
+
+a{
+    color:purple;
+    font-size: 30px;
+
+}
+
+#tam-cerceve {
+    text-align: center;
+    min-height:100%;
+    position:relative;
+    list-style-position: inside;
+ }
+
+ #orta-alan{
+    padding:10px;
+    padding-bottom:50px;   /* footer yüksekliği */
+ }
+
+#footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:90px;   /* footer yüksekliği */
+    
+ }
